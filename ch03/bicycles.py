@@ -5,3 +5,5 @@ bicycles = ['trek',
 
 print(bicycles[0].title())
 
+print(bicycles[3].title())
+print(bicycles[-1].title())
