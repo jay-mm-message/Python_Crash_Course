@@ -21,3 +21,7 @@ print(motocycles2)
 
 motocycles2.insert(0, 'ducati')
 print(motocycles2)
+
+
+del motocycles2[0]
+print(motocycles2)
