@@ -25,3 +25,7 @@ print(motocycles2)
 
 del motocycles2[0]
 print(motocycles2)
+
+pop_motocycle2 = motocycles2.pop()
+print(pop_motocycle2)
+print(motocycles2)
