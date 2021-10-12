@@ -17,3 +17,7 @@ motocycles2.append('honda')
 motocycles2.append('yamaha')
 motocycles2.append('suzuki')
 print(motocycles2)
+
+
+motocycles2.insert(0, 'ducati')
+print(motocycles2)
