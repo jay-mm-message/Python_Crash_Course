@@ -18,3 +18,5 @@ motorcycles.append('suzuki')
 print(f":4: {motorcycles}")
 motorcycles.remove(too_expensive)
 print(f":5: {motorcycles}")
+
+print("test ubuntu")
