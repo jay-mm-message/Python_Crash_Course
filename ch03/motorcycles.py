@@ -9,3 +9,11 @@ print(motocycles)
 
 motocycles.append('ducati')
 print(motocycles)
+
+
+motocycles2 = []
+print(motocycles2)
+motocycles2.append('honda')
+motocycles2.append('yamaha')
+motocycles2.append('suzuki')
+print(motocycles2)
